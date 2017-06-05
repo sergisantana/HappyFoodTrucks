@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">HappyFoodTrucks</string>
+<string name="title_activity_main">Menú</string>
+
+<string name="navigation_drawer_open">Obrir vista navegació</string>
+<string name="navigation_drawer_close">Tancar vista navegación</string>
+<string name="action_settings">Configuració</string>
+<string name="text_hashtag">#HappyFoodTrucks</string>
+<string name="search">Buscar</string>
+    <string name="slogan">Ens agrada menjar!</string>
+<string name="menu_happy">Happy Food</string>
+<string name="menu_events">Events</string>
+<string name="menu_next">Próxima parada</string>
+<string name="menu_food">Food Trucks</string>
+<string name="menu_contact">Contacte</string>
+<string name="credits">Happy Food Trucks © 2017</string>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HappyFoodTrucks</string>
+    <string name="title_activity_main">Menú</string>
+
+    <string name="navigation_drawer_open">Abrir vista navegación</string>
+    <string name="navigation_drawer_close">Cerrar vista navegación</string>
+    <string name="action_settings">Configuración</string>
+    <string name="text_hashtag">#HappyFoodTrucks</string>
+    <string name="search">Buscar</string>
+    <string name="slogan">Amámos la comida!</string>
+    <string name="menu_happy">Happy Food</string>
+    <string name="tool_bar_food_truck">MENÚ</string>
+    <string name="menu_events">Eventos</string>
+    <string name="menu_next">Próxima parada</string>
+    <string name="menu_food">Food Trucks</string>
+    <string name="menu_contact">Contacta</string>
+    <string name="credits">Happy Food Trucks © 2017</string>
+
+
+    <string name="food_truck_antic">Antic</string>
+    <string name="food_truck_antic_info">¿Os gustan las pizzas? Menuda pregunta… ¡seguro que sí! a nosotros ¡también! Pero sólo las de ¡Antic! Horno de leña, pizzas caseras, trato amable y sabores increíbles que te harán salir rodando de cualquier evento.</string>
+    <string name="food_truck_burger">Burger Cia</string>
+    <string name="food_truck_burger_info">Nada más que hamburguesas, pero quién dice que no a una hamburguesa? Y aún más si las hace Marie con tanto amor y dedicación. Además, estos deliciosos bocadillos tienen nombres de lo más originales: ¿te resistirás a La Presidenta, con bacon, cebolla caramelizada, lechuga y queso? Si es así, siempre te quedará la enchufada: su hija, ¡más pequeña pero igual de buena!</string>
+    <string name="food_truck_barmutillu">Barmutillo</string>
+    <string name="food_truck_barmutillu_info">Vermut, Cervezas, tapas, pintxos... ¿Necesitas algo más para picar antes de comer? Esta Food Truck conseguirá que tu estomago se abra con sus productos deliciosos. Acuérdate de probarlos todos, no te olvides de ninguno. Están para ¡chuparse los dedos!</string>
+
+</resources>
