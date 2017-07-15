@@ -1,8 +1,8 @@
 # HappyFoodTrucks
 
-This project is to understand and implement android app for a happy food truck friends.
+This purpose of this project is to understand and implement android app for a happy food truck friends.
 
-[www.happyfoodtruck.com](http://www.happyfoodtruck.com)
+[www.happyfoodtrucks.com](http://www.happyfoodtrucks.com)
 
 <p> In developing phase.. </p>
 
